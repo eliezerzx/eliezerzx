@@ -15,7 +15,7 @@
 
   - 💬 Tenho 17 anos, atualmente moro no interior de São Paulo - Brasil, Tenho experiência com Análise de Dados e Visualização de Dados, sou novo na área mas estou cada dia mais ganhando conhecimento e evoluindo.
   
-  - ⚡ Eu gosto de assistir filmes/séries, jogar jogos e editar vídeos no After Effects.
+  - ⚡ Eu gosto de assistir filmes/séries, jogar jogos, gosto de carros e editar vídeos no After Effects.
 </details>
 
 <p align="left"><br>- 📚 No momento estou cursando .<br>- 💻 Também sou Videomaker.</p>

@@ -52,6 +52,7 @@
 
 ###
 
+
 <h3 align="left">🔥   Meus status :</h3>
 
 
@@ -62,6 +63,8 @@
 </div>
 
 ###
+
+##
 
 <img src="https://raw.githubusercontent.com/eliezerzx/eliezerzx/output/snake.svg" alt="Snake animation" />
 

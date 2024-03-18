@@ -64,8 +64,4 @@
 
 ###
 
-##
 
-<img src="https://raw.githubusercontent.com/eliezerzx/eliezerzx/output/snake.svg" alt="Snake animation" />
-
-###

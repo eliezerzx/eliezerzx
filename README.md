@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 📍 Brasil - SP<br>- 📚 No momento estou cursando .<br>- ⚡ Também sou VIdeomaker.</p>
+<p align="left"><br>- 📚 No momento estou cursando .<br>- ⚡ Também sou VIdeomaker.</p>
 
 ###
 

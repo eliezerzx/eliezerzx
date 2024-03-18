@@ -6,14 +6,6 @@
 
 <h1 align="center">opa 👋</h1>
 
-###
-
-<div align="center">
-  <a href="mailto:eliezerzx01@gmail.com"" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
 ##
 
 <h3 align="left">👩‍💻  Sobre mim</h3>
@@ -24,9 +16,18 @@
 
 ###
 
+<div align="left">
+  <a href="mailto:eliezerzx01@gmail.com"" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
 <h3 align="left">💻 Linguagens</h3>
 
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -37,6 +38,7 @@
 </div>
 
 ###
+
 
 <h3 align="left">🛠 Ferramentas</h3>
 

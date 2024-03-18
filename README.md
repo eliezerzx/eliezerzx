@@ -60,8 +60,12 @@
 
 ###
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=eliezerzx&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=eliezerzx&show_icons=true&theme=transparent#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eliezerzx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1&custom_title=Eliezer%20GitHub%20Stats%20:" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eliezerzx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2&custom_title=Most%20Used%20Languages%20:" height="160" alt="languages graph"  />
+</div>
+
+###
 
 
 ###

@@ -86,5 +86,7 @@
 
 [C - Programa para Mapear Dias da Semana](https://github.com/eliezerzx/Programa-em-C-para-Mapear-Dias-da-Semana)</p>
 
+[Python - Filtragem_de_Linhas com Estados](https://github.com/eliezerzx/Filtragem_de_Linhas_com_Estados)</p>
+
 ###
 

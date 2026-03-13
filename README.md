@@ -88,6 +88,8 @@
 
 [Python - Filtragem_de_Linhas com Estados](https://github.com/eliezerzx/Filtragem_de_Linhas_com_Estados)</p>
 
-[HTML / CSS - Site de uma cafeteria](https://github.com/eliezerzx/cafeteriaKfee)
+[Python - Sistema de Gestão de Biblioteca](https://github.com/eliezerzx/sistema-gestao-biblioteca)
+
+[HTML / CSS / PYTHON - Site de Portfólio](https://github.com/eliezerzx/portfolio-site)
 ###
 

@@ -10,11 +10,12 @@
 <details>
   <summary>👨‍💻 Sobre mim</summary>
 
-  - 💬 Tenho 19 anos, atualmente moro no interior de São Paulo - Brasil, Tenho experiência com Análise de Dados e Visualização de Dados, sou novo na área mas estou cada dia mais ganhando conhecimento e evoluindo.
+  - 💬 Tenho 19 anos, atualmente moro no interior de São Paulo - Brasil, Tenho experiência com Análise de Dados e Visualização de Dados, redes, e cada dia ganhando conhecimento e evoluindo.
   
 </details>
 
-<p align="left"><br>- 📚 No momento estou cursando Redes de Computadores - SENAI .<br>
+<p align="left"><br>- 📚 Cursando ADS ( Análise e desenvolvimento de sistemas ) - Anahnguera .<br>
+<p align="left"><br>- 📚 Redes de Computadores - SENAI .<br>
 
 ###
 

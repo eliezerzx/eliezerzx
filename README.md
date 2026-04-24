@@ -1,96 +1,79 @@
-
-###
-
-<h1 align="center">opa 👋</h1>
-
-##
-
-###
-
-<details>
-  <summary>👨‍💻 Sobre mim</summary>
-
-  - 💬 Tenho 19 anos, atualmente moro no interior de São Paulo - Brasil, Tenho experiência com Análise de Dados e Visualização de Dados, redes, e cada dia ganhando conhecimento e evoluindo.
-  
-</details>
-
-<p align="left"><br>- 📚 Cursando ADS ( Análise e desenvolvimento de sistemas ) - Anahnguera .<br>
-<p align="left"><br>- 📚 Redes de Computadores - SENAI .<br>
-
-###
-
-<div align="left">
-  <a href="mailto:eliezerzx01@gmail.com"" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />  <a href="https://www.linkedin.com/in/eliezer-carvalho-4093812bb" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
-  </a>
-    
-</div>
-
-###
-</div>
-
-###
-
-<h3 align="left">💻 Linguagens</h3>
-
-###
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c_logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5_logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3_logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python_logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript_logo" />
-  <img width="12" />   
-</div>
-
-###
-
-
-<h3 align="left">🛠 Ferramentas</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
-</div>
-
-###
-
-
-<h3 align="left">🔥   Meus status :</h3>
-
-
-###
+<h1 align="center">Opa👍</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliezerzx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1&custom_title=Eliezer%20GitHub%20Stats%20:" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eliezerzx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2&custom_title=Most%20Used%20Languages%20:" height="160" alt="languages graph"  />
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF41&size=28&center=true&vCenter=true&width=700&lines=BackEnd;Python+%7C+PyAutoGUI;Cybersecurity+%2B+Linux)
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF41)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF41)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-0D1117?style=for-the-badge&logo=python&logoColor=00FF41)
+
 </div>
 
-###
 
 
-###
+---
 
-<h2 align="center">PORTFOLIO 📝</h2>
+## 🧠 Sobre
 
-###
+💻 Desenvolvedor | Backend | Python | PythonAutoGUI | CyberSecurity | Banco de Dados | Linux | SQL 
+🚀 Experiência com projetos reais envolvendo CRUD, automação e banco de dados      
 
-[C - Programa para Mapear Dias da Semana](https://github.com/eliezerzx/Programa-em-C-para-Mapear-Dias-da-Semana)</p>
+---
 
-[Python - Filtragem_de_Linhas com Estados](https://github.com/eliezerzx/Filtragem_de_Linhas_com_Estados)</p>
+## 🛠️ Tecnologias Principais
 
-[Python - Sistema de Gestão de Biblioteca](https://github.com/eliezerzx/sistema-gestao-biblioteca)
+ <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode&theme=dark" />
+</p>
 
-[HTML / CSS / PYTHON - Site de Portfólio](https://github.com/eliezerzx/portfolio-site)
-###
 
+
+</p>
+
+---
+
+## 📌 Projetos em destaque
+
+📚 Sistema de Gestão de Biblioteca
+Um sistema em linha de comando (CLI) desenvolvido em Python para gerenciar o acervo de uma biblioteca. O projeto foca em organização modular, persistência de dados e experiência do usuário com feedbacks visuais.
+
+- CRUD completo de alimentos   
+- Com interface de menu ( CLI )   
+
+🔗 https://github.com/eliezerzx/sistema-gestao-biblioteca
+
+---
+
+### 🚀 IFood Automation Tool 
+Uma ferramenta de automação robusta e profissional desenvolvida para otimizar
+a gestão de cardápios e complementos no portal iFood.
+
+🔗 https://github.com/eliezerzx/ifood-automation-python
+
+---
+
+## 📚 Atualmente estudando
+
+- CyberSecurity ( Kali Linux ) 
+- Análise e Desenvolvimento de Sistemas   
+- PyAutoGui  
+
+---
+
+## 📫 Contato
+
+
+<p align="center">
+  <a href="eliezerzx01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/eliezer-carvalho/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---

@@ -20,6 +20,8 @@
 ## 🧠 Sobre
 
 💻 Desenvolvedor | Backend | Banco de Dados | Python | PyAutoGUI | CyberSecurity | Linux | SQL 
+
+
 🚀 Experiência com projetos reais envolvendo CRUD, automação e banco de dados      
 
 ---

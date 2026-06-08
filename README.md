@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eliezerzx.eliezerzx&left_color=0d1117&right_color=C8A96E&left_text=visitantes" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eliezerzx.eliezerzx&left_color=0d1117&right_color=C8A96E&left_text=VISITANTES" />
 </p>
 
 ---

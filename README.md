@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <sub>— <em>We used to look up at the sky and wonder at our place in the stars. Now we just look down.</em> —</sub>
+  <sub>— <em>Costumávamos olhar para o céu e nos perguntar qual era o nosso lugar nas estrelas. Agora apenas olhamos para baixo.</em> —</sub>
 </p>
 
 ---
@@ -30,14 +30,14 @@
 > status :: ONLINE
 ```
 
-Information Systems student focused on software development,  
-automation and digital experiences.
+Estudante de Sistemas de Informação com foco em desenvolvimento de software,
+automação e experiências digitais.
 
-**Current trajectory:**  
-Building websites, applications and scalable systems.
+**Current trajectory:**
+Construindo sites, aplicações e sistemas escaláveis.
 
-**Mission directive:**  
-To create things that outlast the moment they were made.
+**Mission directive:**
+Criar coisas que sobrevivam ao momento em que foram feitas.
 
 </td>
 </tr>
@@ -58,7 +58,7 @@ To create things that outlast the moment they were made.
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=C8A96E)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=C8A96E)
 ![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss&logoColor=C8A96E)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=C8A96E)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=C8A96E)
 
 ```
 > All systems nominal.
@@ -81,16 +81,16 @@ To create things that outlast the moment they were made.
 <td>
 
 ### Singularity Pages
-High-converting landing pages — engineered to pull attention like a black hole.
+Landing pages de alta conversão — projetadas para puxar atenção como um buraco negro.
 
 ### Personal Portfolio
-Experiments, UI and frontend projects. A record that survives the journey.
+Experimentos, UI e projetos frontend. Um registro que sobrevive à jornada.
 
 ### Future SaaS
-Research and development. The fifth dimension is under construction.
+Pesquisa e desenvolvimento. A quinta dimensão está em construção.
 
 ```
-> "Mankind was born on Earth. It was never meant to stay."
+> "A humanidade nasceu na Terra. Nunca foi para ficar."
 ```
 
 </td>
@@ -114,7 +114,7 @@ Research and development. The fifth dimension is under construction.
 
 <p align="center">
   <sub>
-    <em>Time is a flat circle only if you stop moving. Keep building.</em>
+    <em>O tempo só é um círculo se você parar de se mover. Continue construindo.</em>
   </sub>
 </p>
 

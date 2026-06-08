@@ -1,0 +1,36 @@
+<svg width="800" height="180" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="180" rx="12" fill="#0B1120" stroke="#00E5FF" stroke-width="2"/>
+
+  <text x="30" y="40"
+        fill="#00E5FF"
+        font-family="monospace"
+        font-size="24"
+        font-weight="bold">
+    🛰️ MISSION LOG
+  </text>
+
+  <line x1="30" y1="60" x2="770" y2="60"
+        stroke="#00E5FF" stroke-width="1"/>
+
+  <text x="30" y="100"
+        fill="#FFFFFF"
+        font-family="monospace"
+        font-size="18">
+    Operator : Eliezer Carvalho
+  </text>
+
+  <text x="30" y="130"
+        fill="#FFFFFF"
+        font-family="monospace"
+        font-size="18">
+    Location : Brazil 🇧🇷
+  </text>
+
+  <text x="30" y="160"
+        fill="#00FF88"
+        font-family="monospace"
+        font-size="18"
+        font-weight="bold">
+    Status : ONLINE
+  </text>
+</svg>

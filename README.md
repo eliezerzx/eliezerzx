@@ -115,7 +115,7 @@ Pesquisa e desenvolvimento. A quinta dimensão está em construção.
 </td>
 <td>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=C8A96E)](https://linkedin.com/in/eliezerzx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=C8A96E)](https://linkedin.com/in/eliezer-carvalho)
 [![Gmail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=C8A96E)](mailto:eliezerzx01@gmail.com)
 
 ```

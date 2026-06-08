@@ -1,99 +1,123 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ffffff&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0"/>
+  <img src="assets/banner.png" width="100%">
 </p>
-<h1 align="center">opa👋</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1000&color=C8A96E&center=true&vCenter=true&width=900&lines=ENDURANCE+ONLINE;CALCULATING+GRAVITATIONAL+SLINGSHOT;WELCOME%2C+COOPER;CURRENT+OBJECTIVE%3A+BUILD+SOMETHING+THAT+ENDURES" />
+</p>
 
-<div align="center">
+---
+
+<p align="center">
+  <sub>— <em>We used to look up at the sky and wonder at our place in the stars. Now we just look down.</em> —</sub>
+</p>
+
+---
+
+## CREW DOSSIER
+
 <table>
 <tr>
-<td width="50%" valign="top">
-
-#   Sobre mim
-
-Estudante de ADS e CyberSecurity, sempre colocando as ideias em prática através do código.
-
-- 🎓 Estudante em Analise e Desenvolvimento de Sistemas (1/5)
-- 💻 Projetos acadêmicos e práticos  
-- 👨‍💻 Interesse em BackEnd e CiberSecurity 
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=malucodes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
----
-
-#   Conecte-se comigo
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/eliezer-carvalho" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=brown&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:eliezerzx01@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail Badge">
-  </a>
-</div>
-
+<td width="220">
+  <img src="assets/astronaut.png" width="200">
 </td>
+<td>
 
-<td width="50%" valign="top">
+```
+> ENDURANCE :: signal acquired
+> identity confirmed :: ELIEZER
+> coordinates :: Brazil
+> status :: ONLINE
+```
 
-#   Tecnologias & Ferramentas
+Information Systems student focused on software development,  
+automation and digital experiences.
 
-<div align="left">
+**Current trajectory:**  
+Building websites, applications and scalable systems.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
-<img width="10" />
-<img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" />
-<img width="10" />
-  </div>
-</div>
+**Mission directive:**  
+To create things that outlast the moment they were made.
 
----
-
-#   Certificações
-
-<div align="left">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://www.credly.com/badges/34652cb1-4a10-4947-94cf-1b6334a6e96c/public_url" target="_blank">
-          <img width="90" height="90" alt="python-essentials-1" src="https://github.com/user-attachments/assets/d3ef7b24-024b-4694-91ee-a4367c8f1463" />
-        </a>
-      </td>
-      <td>
-        <a href="https://www.credly.com/badges/bdf8a0ee-3317-473d-bb76-ddc51e6432a3/public_url" target="_blank">
-          <img width="90" height="90" alt="aws-foundations" src="https://github.com/user-attachments/assets/86dd48e8-ecd2-44d8-8dc7-fabbb9167a02" />
-        </a>
-      </td>
-      <td>
-        <a href="https://www.credly.com/badges/4bfd117d-c12f-4107-8b51-839a93bd74d6/public_url" target="_blank">
-          <img width="90" height="90" alt="aws-cloud-quest" src="https://github.com/user-attachments/assets/f63aab82-f986-48c8-9fea-f8f2fe8baf5e" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-</div>
 </td>
 </tr>
 </table>
-</div>
+
+---
+
+## ONBOARD SYSTEMS
+
+<table>
+<tr>
+<td width="220">
+  <img src="assets/arsenal.png" width="200">
+</td>
+<td>
+
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=C8A96E)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=C8A96E)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=C8A96E)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss&logoColor=C8A96E)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=C8A96E)
+
+```
+> All systems nominal.
+> Relativity noted — time spent building is never wasted.
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## ACTIVE TRAJECTORIES
+
+<table>
+<tr>
+<td width="220">
+  <img src="assets/planet.png" width="200">
+</td>
+<td>
+
+### Singularity Pages
+High-converting landing pages — engineered to pull attention like a black hole.
+
+### Personal Portfolio
+Experiments, UI and frontend projects. A record that survives the journey.
+
+### Future SaaS
+Research and development. The fifth dimension is under construction.
+
+```
+> "Mankind was born on Earth. It was never meant to stay."
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## TELEMETRY
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eliezerzx&show_icons=true&theme=tokyonight&hide_border=true&title_color=C8A96E&icon_color=C8A96E"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=eliezerzx&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eliezerzx/eliezerzx/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
+
+<p align="center">
+  <sub>
+    <em>Time is a flat circle only if you stop moving. Keep building.</em>
+  </sub>
+</p>
+
+<p align="center">
+  <sub>— ENDURANCE :: transmission complete —</sub>
+</p>

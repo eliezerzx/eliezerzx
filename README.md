@@ -79,10 +79,10 @@ Criar coisas que sobrevivam ao momento em que foram feitas.
 
 <table>
 <tr>
-<td width="220">
-  <img src="assets/planet.png" width="200">
+<td width="35%" valign="top">
+  <img src="assets/planet.png" width="100%">
 </td>
-<td>
+<td width="35%" valign="top">
 
 ### [Singularity Pages](https://github.com/eliezerzx/singularity-pages)
 Landing pages de alta conversão — projetadas para puxar atenção como um buraco negro.

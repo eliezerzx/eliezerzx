@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%">
+  <img src="assets/baner.gif" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1000&color=C8A96E&center=true&vCenter=true&width=900&lines=ENDURANCE+ONLINE;CALCULATING+GRAVITATIONAL+SLINGSHOT;WELCOME%2C+COOPER;CURRENT+OBJECTIVE%3A+BUILD+SOMETHING+THAT+ENDURES" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1000&color=C8A96E&center=true&vCenter=true&width=900&lines=ENDURANCE+ONLINE;CALCULANDO+ESTILINGUE+GRAVITACIONAL;BEM-VINDO%2C+ELIEZER;" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eliezerzx.eliezerzx&left_color=0d1117&right_color=C8A96E&left_text=visitantes" />
 </p>
 
 ---
@@ -30,7 +34,7 @@
 > status :: ONLINE
 ```
 
-Estudante de Sistemas de Informação com foco em desenvolvimento de software,
+Estudante de Analise e Desenvolvimento de Sistemas com foco em desenvolvimento de software,
 automação e experiências digitais.
 
 **Current trajectory:**
@@ -80,14 +84,17 @@ Criar coisas que sobrevivam ao momento em que foram feitas.
 </td>
 <td>
 
-### Singularity Pages
+### [Singularity Pages](https://github.com/eliezerzx/singularity-pages)
 Landing pages de alta conversão — projetadas para puxar atenção como um buraco negro.
+`em andamento · 2025`
 
-### Personal Portfolio
+### [Personal Portfolio](https://github.com/eliezerzx/portfolio)
 Experimentos, UI e projetos frontend. Um registro que sobrevive à jornada.
+`em andamento · 2025`
 
 ### Future SaaS
 Pesquisa e desenvolvimento. A quinta dimensão está em construção.
+`em breve`
 
 ```
 > "A humanidade nasceu na Terra. Nunca foi para ficar."
@@ -99,16 +106,25 @@ Pesquisa e desenvolvimento. A quinta dimensão está em construção.
 
 ---
 
-## TELEMETRY
+## COMMUNICATION CHANNEL
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eliezerzx&show_icons=true&theme=tokyonight&hide_border=true&title_color=C8A96E&icon_color=C8A96E"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=eliezerzx&theme=tokyonight&hide_border=true"/>
-</p>
+<table>
+<tr>
+<td width="220">
+  <img src="assets/nave.png" width="200">
+</td>
+<td>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/eliezerzx/eliezerzx/output/github-contribution-grid-snake-dark.svg">
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=C8A96E)](https://linkedin.com/in/eliezerzx)
+[![Gmail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=C8A96E)](mailto:eliezerzx01@gmail.com)
+
+```
+> Canal aberto. Pronto para a próxima missão.
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
